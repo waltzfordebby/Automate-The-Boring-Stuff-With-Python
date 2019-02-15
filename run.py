@@ -1,6 +1,5 @@
 import os
 import generatingrandomquizfiles
 
-
 if __name__ == '__main__':
-	print('This is the main program!')
+	print('This is the main program! sad')
