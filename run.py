@@ -1,4 +1,3 @@
-import os
 import generatingrandomquizfiles
 
 if __name__ == '__main__':
