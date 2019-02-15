@@ -1,9 +1,6 @@
 import os
-# import generatingrandomquizfiles
+import generatingrandomquizfiles
 
 
 if __name__ == '__main__':
-	print(os.path.dirname(os.path.realpath(__file__)))
-	# print(os.path.dirname(generatingrandomquizfiles.__file__))
-	print(os.path.realpath(__file__))
-	print(os.path.abspath(os.path.dirname(__file__)))
+	print('This is the main program!')
